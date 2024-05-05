@@ -1,0 +1,17 @@
+.image-results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1%;
+}
+
+.image-details img {
+  width: 30vw;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.image-details h4 {
+  font-size: 1.25rem;
+}
